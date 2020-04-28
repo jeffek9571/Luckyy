@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51825543485",
+    "firebase_url": "https://luckyy-b799c.firebaseio.com",
+    "project_id": "luckyy-b799c",
+    "storage_bucket": "luckyy-b799c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51825543485:android:f6aaf90665843e2dc01d54",
+        "android_client_info": {
+          "package_name": "com.example.luckyy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51825543485-vloia84ap3dt87n54kh4ovpddcshjlf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUY5AYGvbLaqzcGIZXhGjjzzmRBFtdcMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51825543485-vloia84ap3dt87n54kh4ovpddcshjlf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
